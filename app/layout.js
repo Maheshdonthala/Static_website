@@ -3,8 +3,8 @@ import Footer from '../components/Footer';
 import './globals.css';
 
 export const metadata = {
-  title: 'Sri Modhakondamma Madugula Halwa',
-  description: 'Handmade halwa and sweets',
+  title: 'Vyshnavi Fancy',
+  description: 'A fancy website site',
 };
 
 export default function RootLayout({ children }) {

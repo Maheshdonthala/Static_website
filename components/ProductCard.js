@@ -5,10 +5,10 @@ export default function ProductCard({ product }) {
       <div className="p-4 flex-1 flex flex-col">
         <div>
           <h3 className="font-semibold">{product.name}</h3>
-          <p className="text-gray-600">{product.price}</p>
+          <p className="text-pink-600">{product.price}</p>
         </div>
         <div className="mt-3">
-          <a href="/contact" className="block bg-orange-500 text-white px-4 py-2 rounded text-center w-full md:inline-block md:w-auto">Order</a>
+          <a href="/contact" className="block bg-pink-500 text-white px-4 py-2 rounded text-center w-full md:inline-block md:w-auto">Order</a>
         </div>
       </div>
     </div>

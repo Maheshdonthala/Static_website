@@ -1,10 +1,10 @@
 import ProductCard from '../../components/ProductCard';
 
 const products = [
-  { id: 1, name: 'Classic Halwa', price: '₹600', img: '/Classic-halwa.jpg' },
-  { id: 2, name: 'Sugar Halwa', price: '₹550', img: '/sugar-halwa.jpg' },
-  { id: 3, name: 'Bellam/Jaggery Halwa', price: '₹600', img: '/Bellam-halwa.jpg' },
-  { id: 4, name: 'Special Dry-fruits Halwa', price: '₹900', img: '/Dry-fruits-halwa.jpg' },
+  { id: 1, name: 'Lipstick 1', price: '₹250', img: '/f5.jpg' },
+  { id: 2, name: 'Lipstick 2', price: '₹200', img: '/f6.jpg' },
+  { id: 3, name: 'Lipstick 3', price: '₹150', img: '/f7.jpg' },
+  { id: 4, name: 'Lipstick 4', price: '₹350', img: '/f6.jpg' },
 ];
 
 export default function ProductsPage() {
