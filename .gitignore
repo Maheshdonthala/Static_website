@@ -3,4 +3,5 @@
 dist/
 *.log
 .env
-public/*.webp
+# allow webp assets in public/ (f1.webp tracked)
+# public/*.webp
