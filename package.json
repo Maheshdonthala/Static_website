@@ -1,0 +1,23 @@
+{
+  "name": "halva-sweets-website",
+  "version": "1.0.0",
+  "description": "Sri Modhakondamma Madugula Halwa Website",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "next": "^16.0.0",
+    "postcss": "^8.5.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwindcss": "3.4.18"
+  }
+}
